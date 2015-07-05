@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<structure>
+
+    <catalog	name="amp_misc_darktheme"	file="amp_misc_darktheme.catalog"/>
+    <huitheme	name="dark"	file="dark.huitheme"	catalog="amp_misc_darktheme"/>
+    <huicolorsset	name="dark"	file="dark.huicolorsset"	catalog="amp_misc_darktheme"/>
+    <huistyle	name="dark"	file="dark.huistyle"	catalog="amp_misc_darktheme"/>
+
+</structure>
